@@ -1,0 +1,13 @@
+# 20 Task  >
+#       (
+#       - Material          (option1, option2, option3)         options (Cost, Quality)
+#       - Equipment         (option1, option2, option3)         options (Cost, Quality)
+#       - Administration    (option1, option2, option3)         options (Cost, Quality)
+#       - Labor             (
+#               -- WD (5, 6, 7)
+#               -- DH (8, 9, 10, 11, 12)
+#                           )
+#       )
+
+
+
